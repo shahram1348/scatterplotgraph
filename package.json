@@ -1,0 +1,10 @@
+{
+  "homepage": "https://shahram1348.github.io/scatterplotgraph",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "scripts": {
+    "redeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
